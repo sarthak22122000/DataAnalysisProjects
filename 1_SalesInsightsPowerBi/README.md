@@ -1,5 +1,11 @@
 ## Sales Insights Data Analysis Project
 
+### DASHBOARD
+
+![performance insights](https://user-images.githubusercontent.com/88226493/220432550-17bba41c-3aec-4e9a-a00e-521c1e49fed3.png)
+
+![profit analysis](https://user-images.githubusercontent.com/88226493/220432807-b8133a1f-badf-4ad7-ae29-cb51968c5dcb.png)
+
 1. SQL database dump is in db_dump.sql file above. 
 
 ### Data Analysis Using SQL
